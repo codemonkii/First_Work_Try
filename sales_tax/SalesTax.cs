@@ -13,6 +13,9 @@ namespace sales_tax
 {
     public class SalesTax
     {
+        /// <summary>
+        /// This is a class to perform Sales tax state counts and create new xlsx files for Accounting
+        /// </summary>
         static object useDefault = Type.Missing;
 
         private string tableToTax;
