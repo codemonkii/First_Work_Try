@@ -1,0 +1,12 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="sales_tax.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="strSalesTaxFolder" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">Q:\sales_tax</Value>
+    </Setting>
+    <Setting Name="listOfReportStates" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">SC|NC|GA</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
