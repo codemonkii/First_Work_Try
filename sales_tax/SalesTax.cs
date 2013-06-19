@@ -15,6 +15,7 @@ namespace sales_tax
     {
         /// <summary>
         /// This is a class to perform Sales tax state counts and create new xlsx files for Accounting
+        /// It expects that a DataTable Will be used to show states and the record count for each
         /// </summary>
         static object useDefault = Type.Missing;
 
